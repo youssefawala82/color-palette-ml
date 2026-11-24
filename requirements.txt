@@ -1,0 +1,5 @@
+Flask>=3.0,<4
+numpy>=1.26,<3
+Pillow>=10.0,<13
+scikit-learn>=1.4,<2
+gunicorn>=22,<24
